@@ -218,13 +218,13 @@ fun RowExample(){
 // A layout is also a composable function, so, it can have a modifier that
 // applies to all its children.
 ```
-###Sources
+### Sources
 *[Learn Jetpack Compose](https://developer.android.com/jetpack/compose/layouts)
 
-###Credits
+### Credits
 *[Inspiration for the structure of this README](https://github.com/MaurineM/jetpack-compose-article/blob/main/README.md)
 
-###Getting Started
+### Getting Started
 
 1. Download the code
 2. Open the project in Android Studio
