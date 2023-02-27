@@ -219,10 +219,10 @@ fun RowExample(){
 // applies to all its children.
 ```
 ### Sources
-*[Learn Jetpack Compose](https://developer.android.com/jetpack/compose/layouts)
+[Learn Jetpack Compose](https://developer.android.com/jetpack/compose/layouts)
 
 ### Credits
-*[Inspiration for the structure of this README](https://github.com/MaurineM/jetpack-compose-article/blob/main/README.md)
+[Inspiration for the structure of this README](https://github.com/MaurineM/jetpack-compose-article/blob/main/README.md)
 
 ### Getting Started
 
