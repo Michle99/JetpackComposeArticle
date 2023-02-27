@@ -1,7 +1,7 @@
-###Jetpack Compose Article app
+### Jetpack Compose Article app
 
 
-###Introduction
+### Introduction
 
 
 This app is an articles app that displays information about Android Jetpack Compose library.
@@ -10,7 +10,7 @@ The concepts covered in this app are:
 - Simple UI layout in Compose
 - Add Text and Image composables in a Column composable.
 
-###Pre-requisites
+### Pre-requisites
 
 
 - How to create and use composables.
